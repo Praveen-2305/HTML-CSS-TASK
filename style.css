@@ -1,0 +1,180 @@
+
+.main{
+    padding-left: 0%;
+    margin-left:0px ;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(232, 217, 199);
+}
+
+
+.first{
+    float: left;
+    height: 760px;
+    width: 80px;
+    background-color: rgb(224, 242, 241);
+    font-size: small;
+    text-align: center;
+    line-height: 120px;
+    
+}
+.first button{
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 30%;
+    size: 20px;
+}
+
+
+.form{
+    float: right;
+   
+}
+.form button{
+    
+    position: top;
+    width: 200px;
+    height:45px;
+    background-color: green;
+    text-align: top;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: violet;
+    color:aqua
+}
+
+
+
+.btn:hover{
+    background-color: royalblue;
+}
+.button{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    display: inline;
+    margin-left: 45px;
+    border-radius: 15%;
+    margin-top: 15px;
+}
+
+.second{
+    display: flex;
+    height: 70px;
+    background-color:rgb(169, 150, 150) ;
+    width: 1423px ;
+    margin-top: 2px;
+    gap: 250px;
+    
+}
+.item-2{
+    margin-top: 10px;
+    padding-right: 100px;
+    
+
+}
+
+.third{
+    display: flex;
+    height: 80px;
+    width:1149px;
+    background-color: aqua;
+    justify-content: space-evenly;
+}
+
+.icon1 button{
+    margin-top: 15px;
+    background-color: bisque;
+    cursor: pointer;
+    border-radius: 30%;
+}
+
+.icon2 button{
+    margin-top: 15px;
+    background-color: bisque;
+    cursor: pointer;
+    border-radius: 30%;
+}
+
+.icon3 button{
+    margin-top: 15px;
+    background-color: bisque;
+    cursor: pointer;
+    border-radius: 30%;
+}
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 250px;
+}
+.box1{
+    width: 350px;
+    height: 250px;
+    background-color: green;
+    margin-left: 30px;
+    margin-top: 60px;
+    border-radius: 10%;
+
+}
+
+.box1 a img{
+    margin-right: 30px;
+    float: right;
+    margin-top: 5px;
+    height: 140px;
+    width: 90px;
+}
+
+.box2{
+    width: 350px;
+    height: 250px;
+    background-color: green;
+    margin-left: 100px;
+    margin-top: 60px;
+    border-radius: 10%;
+
+}
+
+.box2 a img{
+    margin-right: 30px;
+    float: right;
+    margin-top: 5px;
+    height: 140px;
+    width: 90px;
+}
+
+.mainboard{
+     width: 350px;
+     height: 150px;
+     background-color: transparent;
+     margin-left: 240px;
+     
+
+}
+
+.content{
+    display: flex;
+    margin-left: 0px;
+    gap: 85px;
+
+}
+
+.notification{
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-right: 0px;
+    float: right;
+    background-color: lightgrey;
+    width: 274px;
+    height: 550px;
+line-height: 40px;}
+
+.payment button{
+    margin-top: 20px;
+    line-height: 40px;
+    border-radius: 5%;
+    background-color: azure;
+}
+
